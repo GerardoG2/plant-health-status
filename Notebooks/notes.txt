@@ -1,0 +1,53 @@
+1. Correlat trigger [oints with spikes
+]
+2. overlay actuator with binary on/off data
+- temp actuator on but temperature not affected
+- temp or other acutator not activating
+- overlay cumulative actuator activations 
+
+3. investigate if heater was active during temperature drops 
+
+4. correlate nutrients with pump acitvation
+
+5. What causes plant to grow exponentially 
+
+6. time series regression
+
+7. 4 day rolling averages on actuator conditions
+- counts of activaations, etc
+
+8. 1nn imputation for filling extra time stamps to overrlay actuator data 
+
+temp during day 20 - 24 
+
+temp during. night 18 - 22
+
+twin x axis time series for actual environmental data 
+-actua vs imputed 
+maybe try scatter 
+
+temporal forecasting with 
+use ALL plants
+
+do time series support vector regression
+
+
+==================
+02/06
+
+1. Finish regression and SVR 
+2. Clean github and organize notebook 
+* Humidity and water temperature have strongest positively associated features with lettuce weight. 
+* However, examining the confidence interval tells us that the coefficient of water temperature could be zero. We are 95% confident that humidity is a positive predictor of lettuce weight. 
+* Adiditonally there is strong multicollinearity
+* r sqaured and rmse is good 
+* insignificant p values from report 
+* add time series neural network model and compare results to OLS
+
+============
+02/13
+* detailed report accumulating all analysis
+* cldan github and add dr eshwar 
+* change to lab name 
+* add document to abstract 1 section on slack 
+@eshwarcodes
