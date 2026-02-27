@@ -51,3 +51,15 @@ do time series support vector regression
 * change to lab name 
 * add document to abstract 1 section on slack 
 @eshwarcodes
+
+==============
+
+02/20
+
+finalize paper and add figures
+* add more about methodology 
+
+figures needed 
+* neural network loss 
+* regression table - make in overleaf
+
