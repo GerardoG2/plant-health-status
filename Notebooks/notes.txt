@@ -71,17 +71,5 @@ Work on next cycle of data
 03/06 
 * run more models on next cycle of data. 
 * clean up and organize notebooks and github
-* 
+*sensitivy analaysis 
 
-to do 
-* sensitivity analysis (1 hr)
-    - augment data (e.g.modify e.c by 10%)
-    - show results 
-
-* Think about what is missing from data to make model more accurate. 
-* think about what case do we want to test next?
-
-1. Read New data and run models. done by 12pm
-Maybe merge data and get rid of lags ?  
-
-2. 
