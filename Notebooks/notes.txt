@@ -73,3 +73,10 @@ Work on next cycle of data
 * clean up and organize notebooks and github
 *sensitivy analaysis 
 
+03/18 Questions
+* Is the imputation logic valid? I used knn imputer first to fill the dataframe.
+* Then i used the imputed values find the missing values using KNN regressor
+    - so the original imputed values from the regressor did not stay 
+
+ideas
+- try regressing on change in fresh weight again 
