@@ -81,8 +81,13 @@ Work on next cycle of data
 * should we keep weight_lag variables?
 
 03/19
-* temp_nutr is showing more importance
+* temp_nutr is showing more importance for trial 2
     - try more runs of permutation
+* How to interpret shap analysis ?
 
 ideas
 - try regressing on change in fresh weight again 
+
+03/20
+* Is the imputation logic valid for the trial 2 data?
+* Shap analysis and interaction effects
