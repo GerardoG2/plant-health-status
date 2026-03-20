@@ -78,5 +78,11 @@ Work on next cycle of data
 * Then i used the imputed values find the missing values using KNN regressor
     - so the original imputed values from the regressor did not stay 
 
+* should we keep weight_lag variables?
+
+03/19
+* temp_nutr is showing more importance
+    - try more runs of permutation
+
 ideas
 - try regressing on change in fresh weight again 
