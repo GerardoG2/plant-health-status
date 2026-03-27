@@ -91,3 +91,7 @@ ideas
 03/20
 * Is the imputation logic valid for the trial 2 data?
 * Shap analysis and interaction effects
+* 
+
+* fix data leakage and fix neural network model
+
