@@ -95,3 +95,5 @@ ideas
 
 * fix data leakage and fix neural network model
 
+03/27 Questions
+* Should we keep the lags? Are we going to be monitoring the variables during the experiment?
