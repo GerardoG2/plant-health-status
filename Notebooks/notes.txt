@@ -97,3 +97,13 @@ ideas
 
 03/27 Questions
 * Should we keep the lags? Are we going to be monitoring the variables during the experiment?
+
+04/06 
+Questions
+    * I have been dropping days from the models, should i be keeping it?
+    * Generalized Additive Models
+
+notes: 
+email sam asking for pictures of lettuce
+* send standard deviatino humidity and electrical conductivity values ot dr eshar
+* decide what angle and how many plants 
