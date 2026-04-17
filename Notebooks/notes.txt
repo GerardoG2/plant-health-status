@@ -107,3 +107,8 @@ notes:
 email sam asking for pictures of lettuce
 * send standard deviatino humidity and electrical conductivity values ot dr eshar
 * decide what angle and how many plants 
+
+
+04/10 
+* find interactions in permutation importance 
+* maybe try to model interactions with a GAM, or spline model
