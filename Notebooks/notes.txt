@@ -112,3 +112,7 @@ email sam asking for pictures of lettuce
 04/10 
 * find interactions in permutation importance 
 * maybe try to model interactions with a GAM, or spline model
+
+04/22 
+* get density plot of aggregrated data
+
